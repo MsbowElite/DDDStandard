@@ -9,4 +9,4 @@ Domain Validations\
 CQRS (Imediate Consistency)\
 Event Sourcing\
 Unit of Work\
-Repository\
+Repository
